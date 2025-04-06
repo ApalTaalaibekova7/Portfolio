@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c21eff8f.css",
+    "main.js": "/Portfolio/static/js/main.155b8d1e.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Portfolio/static/js/453.ad6eb26e.chunk.js",
+    "static/media/trıumph-main.png": "/Portfolio/static/media/trıumph-main.8ff99172dd6da0072be8.png",
+    "static/media/burger-bg.png": "/Portfolio/static/media/burger-bg.5afd37e85bd931cdc1d5.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.24bf0778a5c4d9237bfc.png",
+    "static/media/Project-5.png": "/Portfolio/static/media/Project-5.0b2bce8cebff86f6cde5.png",
+    "static/media/Project-6_1.png": "/Portfolio/static/media/Project-6_1.370bc9bf58ad1d352a91.png",
+    "static/media/Home 1.jpg": "/Portfolio/static/media/Home 1.98a554700f2eb577e7ab.jpg",
+    "static/media/Portfolio-1.png": "/Portfolio/static/media/Portfolio-1.08a1e014f2b82f1f76d8.png",
+    "static/media/Nike.jpg": "/Portfolio/static/media/Nike.429567c9f1af8c7365bd.jpg",
+    "static/media/Project-3.png": "/Portfolio/static/media/Project-3.7234cf3bb8caae0de277.png",
+    "static/media/Project-3_1.png": "/Portfolio/static/media/Project-3_1.34a87b84015928f5a186.png",
+    "static/media/RGFood.jpg": "/Portfolio/static/media/RGFood.e4cdeb8383e02175d403.jpg",
+    "static/media/header-bg.png": "/Portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/fıgma.png": "/Portfolio/static/media/fıgma.80bebf575fb83ece6d16.png",
+    "static/media/fiverr-new": "/Portfolio/static/media/fiverr-new.362fc471844ddaad3ba4",
+    "static/media/sun.svg": "/Portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/Portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/Portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/instagram.svg": "/Portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/linkedIn.svg": "/Portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.c21eff8f.css.map": "/Portfolio/static/css/main.c21eff8f.css.map",
+    "main.155b8d1e.js.map": "/Portfolio/static/js/main.155b8d1e.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Portfolio/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c21eff8f.css",
+    "static/js/main.155b8d1e.js"
+  ]
+}
