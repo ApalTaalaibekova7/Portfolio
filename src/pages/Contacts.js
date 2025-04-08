@@ -15,7 +15,10 @@ function Contacts() {
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Email</h2>
-                        <p><a href="apaltaalaibekova7@gmail.com">Apaltaalaibekova7@gmail.com</a></p>
+                        <p> 
+                            <a href="mailto:apaltaalaibekova7@gmail.com">
+                            Apaltaalaibekova7@gmail.com</a> 
+                        </p>
                     </li>
                 </ul>
 
