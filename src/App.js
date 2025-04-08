@@ -10,7 +10,7 @@ import Contacts from "./pages/Contacts";
 import Project from "./pages/Project";
 
 import ScrollToTop from "./utils/scrollToTop";
-import Header from './components/header/Header';
+
 
 
 function App() {
@@ -19,7 +19,6 @@ function App() {
           <Router>
               <ScrollToTop />
               <Navbar />
-
               <Routes>
              
                   <Route path="/" element={<Home />} />
